@@ -16,7 +16,7 @@ This project is an excellent introduction to image classification pipelines, fea
 * [Submitting to Kaggle](#-submitting-to-kaggle)
 * [Dependencies](#-dependencies)
 
-## 📝 Project Overview
+## Project Overview
 
 The goal of this project is to build a binary classifier that can distinguish between images of dogs and cats. The project uses the "Dogs vs. Cats" dataset from a Kaggle competition. The core of the project involves:
 
